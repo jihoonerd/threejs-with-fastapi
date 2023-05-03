@@ -1,0 +1,1 @@
+This provides example code to serve FBX files through fastAPI for threejs
